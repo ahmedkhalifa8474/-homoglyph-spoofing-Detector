@@ -3,6 +3,6 @@ Homoglyph spoofing is a phishing or impersonation attack where visually similar 
 
 We gonna make a Script to detect every Homoglyph spoofing using Python3 
 
-Its Open Dource and u can use it every time u want 
+Its Open Source and u can use it every time u want 
 
 If u have any edit u can pull a request and edit it 
